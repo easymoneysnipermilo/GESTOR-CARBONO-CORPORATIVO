@@ -1,5 +1,5 @@
 # Clase para organizar las actividades por departamento
-#xd
+
 
 class Departamento:
     def __init__(self, nombre):
